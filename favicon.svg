@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="64" height="64" viewBox="0 0 64 64" role="img">
+  <title>망원 하이퍼블릭 이용 후기</title>
+  <rect width="64" height="64" rx="13" fill="hsl(204 50% 24%)"/>
+  <path d="M64 0v26L38 0Z" fill="hsl(301 68% 58%)" opacity="0.16"/>
+  <g transform="rotate(0 32 32)"><path d="M32 14 52 48H12Z" fill="none" stroke="hsl(204 24% 96%)" stroke-width="6" stroke-linejoin="round"/><path d="M32 30 41 46H23Z" fill="hsl(301 68% 58%)"/></g>
+</svg>
